@@ -5,5 +5,5 @@ public class Main {
         System.out.println("Hello, World!");
     }
 
-    //comentario prueba
+    //comentario prueba corregido para el hotfix
 }
